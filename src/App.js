@@ -52,7 +52,7 @@ class App extends React.Component{
     <Route path="/Signin" 
     render={(props)=>{
       if(username){
-        return <Redirect to="/"/>
+        return <Redirect to="/movies"/>
       }
       else{
         return(
