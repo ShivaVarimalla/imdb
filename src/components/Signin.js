@@ -10,7 +10,7 @@ class Signin extends React.Component{
       handleSignin=()=>{
         const {username} = this.state
         const {password} = this.state
-        if(username===" " & password===" "){
+        if(username==="" & password===""){
          // this.setState({
          //   isSigned: true
        //   })
