@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/imdb/static/css/main.7a94cd98.chunk.css",
-    "main.js": "/imdb/static/js/main.c900cc6b.chunk.js",
-    "main.js.map": "/imdb/static/js/main.c900cc6b.chunk.js.map",
+    "main.js": "/imdb/static/js/main.75d50a55.chunk.js",
+    "main.js.map": "/imdb/static/js/main.75d50a55.chunk.js.map",
     "runtime-main.js": "/imdb/static/js/runtime-main.66b94abd.js",
     "runtime-main.js.map": "/imdb/static/js/runtime-main.66b94abd.js.map",
     "static/js/2.d790a6c1.chunk.js": "/imdb/static/js/2.d790a6c1.chunk.js",
     "static/js/2.d790a6c1.chunk.js.map": "/imdb/static/js/2.d790a6c1.chunk.js.map",
     "index.html": "/imdb/index.html",
-    "precache-manifest.52bfaa30c91078506ad230a7fb82ebee.js": "/imdb/precache-manifest.52bfaa30c91078506ad230a7fb82ebee.js",
+    "precache-manifest.e1b3e2d90e94a02780e6216fbdf1b50e.js": "/imdb/precache-manifest.e1b3e2d90e94a02780e6216fbdf1b50e.js",
     "service-worker.js": "/imdb/service-worker.js",
     "static/css/main.7a94cd98.chunk.css.map": "/imdb/static/css/main.7a94cd98.chunk.css.map",
     "static/js/2.d790a6c1.chunk.js.LICENSE.txt": "/imdb/static/js/2.d790a6c1.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.66b94abd.js",
     "static/js/2.d790a6c1.chunk.js",
     "static/css/main.7a94cd98.chunk.css",
-    "static/js/main.c900cc6b.chunk.js"
+    "static/js/main.75d50a55.chunk.js"
   ]
 }
