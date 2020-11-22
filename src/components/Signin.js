@@ -11,9 +11,9 @@ class Signin extends React.Component{
         const {username} = this.state
         const {password} = this.state
         if(username==="shiva" & password==="1253"){
-         // this.setState({
-         //   isSigned: true
-       //   })
+         this.setState({
+           isSigned: true
+         })
        const action = {
         type: "LOGIN",
         payload: username
